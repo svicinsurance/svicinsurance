@@ -1,4 +1,7 @@
-## Hi there 👋
+# Sri Vishnu Insurance Consultancy
+Official website - serving families across Chennai since 1993.
+Advisors for LIC life insurance, Star Health, ICICI Lombard and United India health cover, and ICICI motor policies.
+Live at: https://svicinsurance.github.io
 
 <!--
 **svicinsurance/svicinsurance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
